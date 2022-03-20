@@ -1,0 +1,15 @@
+  {
+    "firstName": "Felipe",
+    "lastName": "Meyer",
+    "phoneNumber": "11999999999",
+    "ssn": "123456789",
+    "username": "ffmeyer",
+    "password": "123456",
+    "repeatedpassword": "123456",
+    "address": {
+      "street": "Rua Joaquim Floriano",
+      "city": "Rua Joaquim Floriano",
+      "state": "São Paulo/SP",
+      "zipCode": "04534011"
+    } 
+  }
